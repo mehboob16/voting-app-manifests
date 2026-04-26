@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: vote
-        image: mehboob16/vote:latest
+        image: mehboob16/vote:v9
 ---
 apiVersion: v1
 kind: Service
